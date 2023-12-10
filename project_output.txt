@@ -1,0 +1,14 @@
+The most sold is 256GB and it was sold 5 times
+Population size is 17
+Sample size is 15
+Mean of population is 316.235294
+Mean of sample is 361.411765
+Variance of population is 91663.944637
+Standard deviation of population is 302.760540
+Mean is representative
+With 95% confidence population mean unsignificantly differs (or equal to) from sample mean
+There is such an item in population
+Probability that 3 of 3 are not defected is 0.512000
+Probability that 2 of 3 are not defected is 0.384000
+Probability that 1 of 3 are not defected is 0.096000
+Probability that 0 of 3 are not defected is 0.008000
