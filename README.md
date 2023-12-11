@@ -16,10 +16,10 @@ Project_Main.c: Contains the main function and file I/O operations.
 Project_1.h: Houses functions for statistical analysis, data structures, and the binomial distribution.
 
 # Getting Started
-Prerequisites
+Prerequisites:
 Ensure you have a C compiler (e.g., clang) installed on your system.
 
-Installation
+Installation:
 Clone the repository:
 git clone https://github.com/abavanesyan/Project_S1
 
